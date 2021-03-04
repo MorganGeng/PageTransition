@@ -13,6 +13,11 @@ import org.greenrobot.eventbus.EventBus;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/**
+ * Created by gsd on 2021/3/2.
+ * Copyright © 2021 GSD. All rights reserved.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private View mRoot;
